@@ -31,7 +31,14 @@
 
 
 
-**最后，喜 欢的话记得给仓库点星星~**
+**最后，喜欢的话记得给仓库点星星~**
 
 > 另外强调一下，本仓库的项目是**GPL协议**，不支持任何形式的私自产品化（当然大家自己DIY是没有任何问题的，这里只是防止有人借我的名义坑大家），我个人工作比较忙所以也没有建任何官方的QQ、微信群等，大家自己加群的时候要注意甄别。
 >> nested blockquotes
+
+> ##### The quarterly results look great!
+>
+> - Revenue was off the chart
+> - Profits were higher than ever
+>
+>   *Everything* is going **well**.
