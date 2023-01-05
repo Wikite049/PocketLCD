@@ -43,4 +43,13 @@
 >
 >   *Everything* is going **well**.
 
-	`code`
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+`code`
